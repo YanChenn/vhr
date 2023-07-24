@@ -17,6 +17,9 @@
         <module>vhrserver</module>
         <module>mailserver</module>
     </modules>
+    <properties>
+        <start-class>org.javaboy.vhr.VhrApplication</start-class>
+    </properties>
 
 
 </project>

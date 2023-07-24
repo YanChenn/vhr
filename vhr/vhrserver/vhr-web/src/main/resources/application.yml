@@ -7,13 +7,13 @@ spring:
     url: jdbc:mysql://localhost:3306/vhr?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
   rabbitmq:
     username: guest
-    password: chenyan0115
+    password: guest
     port: 5672
-    host: 127.0.0.1
+    host: 172.39.139.97
     publisher-confirms: true
     publisher-returns: true
   redis:
-    host: 127.0.0.1
+    host: 172.39.139.97
     database: 0
     port: 6379
     password: 123
