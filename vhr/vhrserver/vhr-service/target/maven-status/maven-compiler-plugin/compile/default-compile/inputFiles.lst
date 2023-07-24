@@ -1,0 +1,15 @@
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/NationService.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/MenuService.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/EmployeeService.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/PositionService.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/utils/HrUtils.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/MailSendLogService.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/task/MailSendTask.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/config/RabbitConfig.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/JobLevelService.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/RoleService.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/HrService.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/utils/POIUtils.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/DepartmentService.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/PoliticsstatusService.java
+/Users/chenyan/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/SalaryService.java
